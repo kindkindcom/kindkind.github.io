@@ -1,15 +1,18 @@
-<center>
 ## Welcome to [kindkind.com](http://kindkind.com)
 
 这里将展示我在各个兴趣领域收集与研究的结果。
-</center>
+
 
 ### 兴趣领域
 
 ```
-- VEGAS PRO & Script
-- Python
-- Fusion & Script
+- **VEGAS PRO**
+    - Usage
+    - Script
+- **Python**
+- **BMD Fusion**
+    - Usage
+    - Script
 ```
 
-<center>### 感谢你的访问</center>
+### 感谢你的访问
