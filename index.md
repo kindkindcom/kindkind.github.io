@@ -5,15 +5,17 @@
 ***
 
 ### 兴趣领域
-
-`#ffce44`aaaaa
-- **VEGAS PRO**
-    - Usage
-    - Script
-- **Python**
-- **BMD Fusion**
-    - Usage
-    - Script
+```
+* VEGAS PRO
+    * Usage
+    * Script
+    
+* BMD Fusion
+    * Usage
+    * Script
+    
+* Python
+```
 
 
 ***
