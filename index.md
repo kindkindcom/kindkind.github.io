@@ -6,15 +6,15 @@
 
 ### 兴趣领域
 ```
-* VEGAS PRO
-    * Usage
-    * Script
+- VEGAS PRO
+    - Usage
+    - Script
     
-* BMD Fusion
-    * Usage
-    * Script
+- BMD Fusion
+    - Usage
+    - Script
     
-* Python
+- Python
 ```
 
 
