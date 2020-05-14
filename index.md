@@ -22,6 +22,6 @@
 
 ## 感谢你的访问
 
-[VEGAS PRO]:https://github.com/kindkindcom/VEGAS_PRO
-[BMD Fusion FX]:https://github.com/kindkindcom/Fusion_FX
-[Python]:https://github.com/kindkindcom/Python
+[VEGAS PRO]:https://github.com/topics/kindkindcom-vegas-pro
+[BMD Fusion FX]:https://github.com/topics/kindkindcom-fusion-fx
+[Python]:https://github.com/topics/kindkindcom-python
