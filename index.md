@@ -7,16 +7,18 @@
 ### 兴趣领域
 
 * [VEGAS PRO]
-    * Usage
+    * Project
     * Script
-    
+    * Use tips
+
 * [BMD Fusion FX]
-    * Usage
+    * Project
     * Script
-    
+    * Use tips
+
 * [Python]
-
-
+    * Project
+    * Use tips
 
 ***
 
