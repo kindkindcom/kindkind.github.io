@@ -26,6 +26,6 @@ Email：kindkind(at)kindkind.com
 
 ## 感谢你的访问
 
-[VEGAS PRO]:https://github.com/topics/kindkindcom-vegas-pro
+[VEGAS PRO]:https://github.com/topics/kindkindcom-vegaspro
 [BMD Fusion FX]:https://github.com/topics/kindkindcom-fusion-fx
 [Python]:https://github.com/topics/kindkindcom-python
