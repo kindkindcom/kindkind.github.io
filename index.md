@@ -2,7 +2,7 @@
 
 这里将展示我在各个兴趣领域收集与研究的结果。 希望与大家交流。
 
-Email：kindkind(a)kindkind.com
+Email：kindkind(at)kindkind.com
 
 ***
 
